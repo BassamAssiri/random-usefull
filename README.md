@@ -3,7 +3,7 @@ this repository is for random things i use and consider as useful
 
 this is my aliases 
 ```
-alias webserver='sudo python -m SimpleHTTPServer 80'
+alias webserver='sudo python -m http.server 80'
 alias HTB='sudo openvpn /root/HTB/BassamAssri.ovpn'
 alias autonmap='/opt/nmapAutomator.sh -t All -H'
 alias THM='sudo openvpn /root/THM/NoBody.ovpn'
